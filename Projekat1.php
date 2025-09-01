@@ -153,4 +153,4 @@
 
     var_dump(array_unique($ukupnaCena));
     $racun = array_sum(array_unique($ukupnaCena));
-    echo "Racun kupljenih komponenata izosi: $racun e.";
+    echo "Racun kupljenih komponenata iznosi: $racun e.";
